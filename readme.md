@@ -28,5 +28,4 @@ This will create the necessary database stuff.
 
 José Gomes
 
-Tel: 937523892
 Email: zx.gomes@gmail.com
